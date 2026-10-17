@@ -1,16 +1,86 @@
-# React + Vite
+# Fatima's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Welcome to my personal portfolio website! 👋
 
-Currently, two official plugins are available:
+I'm a Computer Science graduate passionate about web development and building modern, responsive, and user-friendly web applications.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This portfolio showcases my projects, technical skills, and experience as I continue growing as a developer.
 
-## React Compiler
+## 🚀 Built With
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- Git & GitHub
 
-## Expanding the Oxlint configuration
+## 💻 Featured Projects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### 1. Bridal Home
+A bilingual home goods catalog designed to help customers explore home essentials.
+
+- **Technologies:** React, Vite, Supabase
+- **GitHub:** [View Repository](https://github.com/fatimabakri123/bridal-home)
+- **Live Demo:** [Visit Website](https://bridal-home-8cvn.vercel.app/)
+
+### 2. Beiroutique
+An online fashion marketplace concept connecting local Lebanese shops with customers.
+
+- **Technologies:** Laravel, PHP, MySQL
+- **GitHub:** [View Repository](https://github.com/fatimabakri123/beiroutique)
+
+### 3. Moto Taxi System
+A motorcycle taxi booking system designed to manage rides, drivers, and customers.
+
+- **Technologies:** Next.js, MySQL, Leaflet
+
+### 4. Glow
+A digital presence concept helping businesses improve their online identity through websites and social media.
+
+- **Technologies:** React, JavaScript, CSS
+
+## ✨ Features
+
+- Responsive design
+- Projects showcase
+- About and skills sections
+- Contact section
+- Links to GitHub and LinkedIn
+
+## ⚙️ Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/fatimabakri123/portfolio.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in your terminal.
+
+## 📬 Contact
+
+- **Email:** fatima9ali10@gmail.com
+- **GitHub:** [fatimabakri123](https://github.com/fatimabakri123)
+
+## 📄 License
+
+This project was created for personal portfolio and educational purposes.
